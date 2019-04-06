@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "log4j 로그 분리방법"
 categories: 
   - spring
