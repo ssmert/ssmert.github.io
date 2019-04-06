@@ -1,5 +1,6 @@
 ---
-title: "log4j ·Î±× ºÐ¸®¹æ¹ý"
+layout: post
+title: "log4j ë¡œê·¸ ë¶„ë¦¬ë°©ë²•"
 categories: 
   - spring
 tags: 
@@ -13,20 +14,20 @@ priority : 1.0
 toc_sticky: true
 ---
 
-# µé¾î°¡¸ç
-ºí·Î±× ½ÃÀÛ ÈÄ Ã³À½À¸·Î ³²±â´Â Æ÷½ºÆÃÀÌ´Ù.
+# ë“¤ì–´ê°€ë©°
+ë¸”ë¡œê·¸ ì‹œìž‘ í›„ ì²˜ìŒìœ¼ë¡œ ë‚¨ê¸°ëŠ” í¬ìŠ¤íŒ…ì´ë‹¤.
 
-> ÃâÃ³: [¸µÅ©´Â ÀÌ·¸°Ô](https://ssmert.github.io)
+> ì¶œì²˜: [ë§í¬ëŠ” ì´ë ‡ê²Œ](https://ssmert.github.io)
 
-## Å×½ºÆ®
+## í…ŒìŠ¤íŠ¸
 ~~~
-Å×½ºÆ®·Î ÇØº¸ÀÚ
+í…ŒìŠ¤íŠ¸ë¡œ í•´ë³´ìž
 ~~~
 
-¸®½ºÆ®´Â ÀÌ·¸°Ô
-* 1¹ø
-* 2¹ø
+ë¦¬ìŠ¤íŠ¸ëŠ” ì´ë ‡ê²Œ
+* 1ë²ˆ
+* 2ë²ˆ
 
-# ¸¶Ä¡¸ç
+# ë§ˆì¹˜ë©°
 
-*Ãß½Å... ÀÌÅ»¸¯À¸·Î!*
+*ì¶”ì‹ ... ì´íƒˆë¦­ìœ¼ë¡œ!*
