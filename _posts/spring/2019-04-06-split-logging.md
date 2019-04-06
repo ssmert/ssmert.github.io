@@ -3,7 +3,7 @@ title: "log4j 로그 분리방법"
 categories: 
   - spring
 tags: 
-  - [sptring, log4j]
+  - [spring, log4j]
 last_modified_at: 2019-04-06 19:30:00
 toc: true
 search: true
